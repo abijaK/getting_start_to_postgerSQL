@@ -1,2 +1,2 @@
-# getting_start_to_postgerSQL
+# PostgerSQL
 This will help to check out skills in SQL using PostgreSQL.
